@@ -15,4 +15,5 @@ Os exercícios estão organizados em pastas e arquivos conforme o tipo ou dificu
 ## Como usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/exercicios-js.git
+   git clone https://https://github.com/FlavioProgramador/JavaScript-exer.git
+
